@@ -15,7 +15,7 @@ export const products = [
   {
     id: 2,
     name: 'Phone Mini',
-    price: 899,
+    price: 99,
     description: 'A great phone with one of the best cameras'
   },
   {
@@ -29,6 +29,12 @@ export const products = [
     name: 'KTM Duke 390',
     price: 17999,
     description: 'This is a little beast!'
+  },
+  {
+    id: 5,
+    name: 'MV Agusta Brutale 800',
+    price: 32999,
+    description: 'This is a bad bitch!'
   }
 ];
 
